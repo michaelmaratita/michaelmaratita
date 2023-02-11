@@ -1,3 +1,4 @@
+<img align="center" src="/images/sysadmin-techsupport.gif" width="1700" height="300"/>
 
 # Hi :wave:, I'm Michael Maratita [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tikit-tm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-maratita/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/tikit-tm)
 

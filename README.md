@@ -1,7 +1,8 @@
 <img align="center" src="/images/sysadmin-techsupport.gif" width="1700" height="300"/>
 
-# Hi :wave:, I'm Michael Maratita
+# Hi :wave:, I'm Michael Maratita 
 
+* [<img src="https://img.shields.io/badge/Portfolio-michaelmaratita.com-red">](https://michaelmaratita.com)
 * 👶➡👦 Born and raised on [Guam](https://www.visitguam.com/)
 * ✈️ Air Force Veteran
 * 💻 13 yrs exp Systems Adminstrator
@@ -13,7 +14,6 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/tikit-tm) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.michaelmaratita.com)
 
-[🌐: michaelmaratita.com](https://michaelmaratita.com) 
 
 ---
 # 💻 Tech Stack:
